@@ -14,7 +14,5 @@ This project deploys a Tic Tac Toe game (single-player mode) to IPFS using Pinat
 
 ## How to Use
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/TD2Decent.git
-cd TD2Decent
+Go to this website :
+https://ipfs.io/ipfs/QmbryYoP9aQNdCe24htyADiC9PZ7KxVJkSaJsZEsDXYBQn/
